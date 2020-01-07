@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/6c868f954a0b74ff0c68f021680278624ec525b9/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/1387d5bd5fd5c8294492bc94a3326dfb9d23ec24/output/res/layout/leak_canary_heap_dump_toast.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/6c868f954a0b74ff0c68f021680278624ec525b9/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/leak_canary_ref_row.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/1387d5bd5fd5c8294492bc94a3326dfb9d23ec24/output/res/layout/leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/leak_canary_ref_top_row.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/1387d5bd5fd5c8294492bc94a3326dfb9d23ec24/output/res/layout/leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/6c868f954a0b74ff0c68f021680278624ec525b9/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/tooltip.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/6c868f954a0b74ff0c68f021680278624ec525b9/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/leak_canary_leak_row.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/1387d5bd5fd5c8294492bc94a3326dfb9d23ec24/output/res/layout/leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/6c868f954a0b74ff0c68f021680278624ec525b9/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/6c868f954a0b74ff0c68f021680278624ec525b9/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/6c868f954a0b74ff0c68f021680278624ec525b9/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/6c868f954a0b74ff0c68f021680278624ec525b9/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/6c868f954a0b74ff0c68f021680278624ec525b9/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/leak_canary_display_leak.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/1387d5bd5fd5c8294492bc94a3326dfb9d23ec24/output/res/layout/leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/99d51ffcaca7edf9a692bb11f41b2aed1598e3d0/output/res/layout/abc_screen_content_include.xml"
+    }
+]

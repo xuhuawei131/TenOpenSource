@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/xuhuawei/.android/build-cache/0c29229d73d328c129edcdce4ce2a482c0da205f/output/res/layout-v21/notification_action.xml"
+    }
+]

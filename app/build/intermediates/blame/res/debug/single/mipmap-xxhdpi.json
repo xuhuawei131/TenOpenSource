@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/xuhuawei/XuHuaWei/AndroidWS/TenOpenSource/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
