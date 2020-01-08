@@ -88,8 +88,8 @@ public class SupermarketListActivity extends Activity {
                 .map(new Func1<String, String>() {
             @Override
             public String call(String s) {
-                return s + "-->map";
-            }
+                        return s + "-->map";
+                    }
         }).subscribe(new Subscriber<String>() {
             @Override
             public void onCompleted() {
